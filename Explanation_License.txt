@@ -1,0 +1,8 @@
+﻿Why did I choose the MIT license?
+
+I have chosen MIT license as the open-source license for my project because the three.js’ authors 
+used that license and it imposes the condition that the copyright and the permission notice shall 
+be included in all copies or substantial portions of the Software, and I used their code in my project. 
+Like the authors of three.js I do not care that the code is used, copied, modified, merged, published,or 
+distributed even in proprietary programs. Moreover, it was my first contact with WebGL, for this reason 
+I do not offer any guarantee of my code and that license also contains a clause about the absence of guarantee.
